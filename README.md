@@ -58,3 +58,62 @@ The system integrates a **CNN (Convolutional Neural Network)** model that automa
 ## 📁 Project Structure
 
 ```
+Farmer-Customer-E-commerce-Platform/
+│
+├── F2CFrontend/     → React.js Frontend Source Code
+├── F2CBackend/      → Node.js + Express.js Backend Source Code
+└── README.md
+```
+
+## 🔧 How to Run the Project
+
+### Clone the Repository
+```
+git clone https://github.com/SaiGayathri-5/Farmer-Customer-E-commerce-Platform.git
+cd Farmer-Customer-E-commerce-Platform
+```
+
+### Run the Backend
+```
+cd F2CBackend/BACKEND
+npm install
+npm start
+```
+
+### Run the Frontend
+```
+cd F2CFrontend/FRONTEND
+npm install
+npm start
+```
+
+### Open in Browser
+```
+http://localhost:3000
+```
+
+## 🤖 CNN Model
+The CNN model file is too large for GitHub. Download it here:
+👉 [Download CNN Model from Google Drive](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+
+Place the downloaded file here after cloning:
+```
+F2CBackend/BACKEND/python-predictor/model/fruit_veg_classifier_model.h5
+```
+
+## 🔮 Future Enhancements
+
+- Real Payment Gateway Integration
+- Mobile Application for Android and iOS
+- Multi-Language Support
+- GPS-Based Live Delivery Tracking
+- Blockchain for Transaction Transparency
+- Advanced Analytics Dashboard
+- AI-Based Dynamic Pricing for Farmers
+- Automated Alerts for Stock and Delivery Updates
+
+## 💡 Problem Statement
+
+Traditional Agri-commerce models have no direct digital platform for farmers, no real-time tracking, manual product entry, fragmented communication, and dependency on intermediaries. This platform solves all of these problems.
+
+⭐ If you find this project useful, please give it a star! ⭐
