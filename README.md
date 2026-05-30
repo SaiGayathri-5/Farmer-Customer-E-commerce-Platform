@@ -101,6 +101,8 @@ The system integrates a \*\*CNN (Convolutional Neural Network)\*\* model that au
 | \*\*Database\*\* | MongoDB |
 
 | \*\*AI Model\*\* | CNN (Convolutional Neural Network) |
+## 🤖 CNN Model Download
+👉 [Click here to Download CNN Model](https://drive.google.com/file/d/1cIj_4oXBOOdiec72EQ86jdMj5n1YCLAZ/view?usp=drive_link)
 
 | \*\*IDE\*\* | Visual Studio Code |
 
